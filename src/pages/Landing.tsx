@@ -60,6 +60,7 @@ const Landing = () => {
             <div className="inline-flex items-center gap-2 rounded-full bg-primary/10 px-4 py-2 text-sm font-medium text-primary">
               <Shield className="h-4 w-4" />
               Decentralized News Verification
+              <h6>Powerd by NeuraSpark</h6>
             </div>
             <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
               Truth Matters. <br />
